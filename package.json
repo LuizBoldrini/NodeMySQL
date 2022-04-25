@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LuizBoldrini/NodeMySQL/issues"
   },
-  "homepage": "https://github.com/LuizBoldrini/NodeMySQL#readme"
+  "homepage": "https://github.com/LuizBoldrini/NodeMySQL#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
